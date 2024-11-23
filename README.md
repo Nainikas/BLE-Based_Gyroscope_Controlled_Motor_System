@@ -170,4 +170,11 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ---
 
+## **Resources**
+
+https://learn.adafruit.com/bluefruit-le-connect/controller
+https://learn.adafruit.com/circuitpython-nrf52840/bluefruit-le-connect-basics
+
+---
+
 Let me know if you'd like additional edits or instructions! 🚀
